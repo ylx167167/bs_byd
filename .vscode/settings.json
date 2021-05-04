@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "global.h": "c",
+        "cjsonfile.h": "c",
+        "cjson.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "socket.h": "c",
+        "thread.h": "c",
+        "mssage.h": "c",
+        "bs.h": "c"
+    }
+}
